@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narayanan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2MfthsxXjM_0QWKgwHU6J_&ust=1669131298947000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDF6OLMv_sCFQAAAAAdAAAAABAE">
+
+<img align="right" alt ="coding" width="400" src="![image](https://user-images.githubusercontent.com/107301043/203096033-736f3e58-8e86-4430-87cd-75ac35036bcb.png)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narenweb&label=Profile%20views&color=0e75b6&style=flat" alt="narenweb" /> </p>
 
 - 🔭 I’m currently working on **IBM Project**
